@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='exercicio_chat_firestore_authentication'

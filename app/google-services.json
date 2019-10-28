@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "540622548953",
+    "firebase_url": "https://exerciciochatfirestoreauthenti.firebaseio.com",
+    "project_id": "exerciciochatfirestoreauthenti",
+    "storage_bucket": "exerciciochatfirestoreauthenti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540622548953:android:5fae2b9842db5aa6b0b3c8",
+        "android_client_info": {
+          "package_name": "com.example.exercicio_chat_firestore_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "540622548953-m1g1c9i93rr30hi2s1pbo6t8b4n65jb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.exercicio_chat_firestore_authentication",
+            "certificate_hash": "b6eae98fcc6b3ea0015a2a0fc31c2bc1b3556cd5"
+          }
+        },
+        {
+          "client_id": "540622548953-cuundrcsl5phi5trl7dhjctn7k8rppr1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2VijChlLriLfcCCbUrlTjKD5AqazlxNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "540622548953-cuundrcsl5phi5trl7dhjctn7k8rppr1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

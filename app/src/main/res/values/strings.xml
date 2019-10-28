@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Conversa Mais</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintEditText">Digite seu nome de usuário</string>
+    <string name="hintEditText2">Digite sua senha</string>
+    <string name="textButton2">Desejo me cadastrar</string>
+    <string name="hintEditTextChat">Digite sua mensagem</string>
+    <string name="hintEditTextNewUser">Digite um nome de usuário</string>
+    <string name="hintEditText2NewUser">Digite uma senha</string>
+    <string name="userOK">Usuário cadastrado</string>
+    <string name="userNoOK">Erro ao cadastrar usuário!</string>
+    <string name="userNoLogin">Erro ao fazer login!</string>
+    <string name="user">Em %s, %s diz:</string>
+    <string name="noGPS">Sem sinal de GPS</string>
+    <string name="sinalGPS">Latitude: %f Longitude: %f</string>
+</resources>
